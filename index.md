@@ -2,6 +2,8 @@
 ### Click the thumbnail to open a game.
 # The Ultimate Doom
 [![The Ultimate Doom](images/UltimateDoom.webp)](play.html?game=games%2FTheUltimateDoom.jsdos)
+# Doom II
+[![Doom II](images/Doom2.jpg)](play.html?game=games%2FDoom2.jsdos)
 # Digger
 [![Digger](images/Digger.webp)](play.html?game=games%2Fdigger-v3.jsdos)
 # Wolfenstein 3D
